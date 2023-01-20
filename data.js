@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Krunal Shah',
+    description: 'I write tutorials related to Web Development and Programming..NET Core, Angular CLI, Node Js, React, Asp.NET MVC, Sql Server, Oracle, Azure, HTML5, Javascript and CSS3',
+    url: 'https://krunal-shah.web.app/',
+    twitter: '@shahkrunal258',
+    tags: ['.NET Core','Sql Server','HTML', 'CSS', 'JavaScript', 'Web Development', 'Node Js'],
+  },
+  {
     name: 'Mayank Vikash',
     description: 'I write tutorials related to Web Development and Programming.',
     url: 'https://mayankvikash.in/posts',
